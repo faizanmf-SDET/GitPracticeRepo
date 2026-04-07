@@ -5,5 +5,6 @@ public class Program02 {
 
         System.out.println("Hello world! - program02");
         System.out.println("Hello world! - pull changes");
+        System.out.println("Hello world! - pull 1 file");
     }
 }
