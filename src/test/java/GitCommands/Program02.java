@@ -5,5 +5,7 @@ public class Program02 {
 
         System.out.println("Hello world! - program02");
         System.out.println("Hello world! - pull changes");
+
+        System.out.println("revert test");
     }
 }
